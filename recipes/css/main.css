@@ -1,0 +1,27 @@
+body {
+    color: #101010;
+    background-color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    margin: auto;
+    font-weight: 600;
+    font-size: 8vw;
+}
+
+h1 {
+    margin: auto;
+    font-weight: 600;
+    font-size: 6vw;
+}
+
+h5 {
+    margin: auto;
+    font-weight: 200;
+    font-size: 3vw
+}
+
+.display-image {
+    width: 100%;
+}
